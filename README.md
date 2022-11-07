@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jepohle
 - 👀 I’m interested in Engineering and Software Development
-- 🌱 I’m currently learning Altium designer, Python, C++ forks and much more
-- 💞️ I’m looking to collaborate on the 2022 version of the CUER car 'HELIA' in the electrical and mechanical team
-- 📫 How to reach me: jep78
+- 🌱 I’m currently learning Altium designer, KiCad, Python, C++  and much more
+- 💞️ I’m leading the LV electrical team for CUER developing hardware for two existing cars and a brand new car running in the 2025 BWSC
+- 📫 How to reach me: jep78@cam.ac.uk
 
 <!---
 jepohle/jepohle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
